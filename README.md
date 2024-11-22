@@ -24,15 +24,15 @@ Developed a real time lane detection system that finds the border of the lane by
 7. **Drawing the Detected Lines on the Video:** The detected lines are drawn on the video which is saved in the output.mp4. 
 
 ## Demo
-<table>
+<table style="width: 100%;">
   <tr>
     <!-- Left Column -->
-    <td align="center">
+    <td align="center" style="width: 50%;">
       <img src="demoGif/roadVid.gif" alt="Original Road Video" width="300">
       <p><b>Original Road Video</b></p>
     </td>
     <!-- Right Column -->
-    <td align="center">
+    <td align="center" style="width: 50%;">
       <img src="demoGif/output.gif" alt="Road Video with Detected Lines" width="300">
       <p><b>Road Video with Detected Lines</b></p>
     </td>
